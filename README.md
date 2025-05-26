@@ -2,6 +2,8 @@
 
 Material for the homonymous talk.
 
+[🧑‍🏫 Slide deck](./slides.pdf)
+
 <details><summary>📝 Abstract</summary>
 In 2025, AI is still evolving rapidly. While closed LLMs are continuously improving, open Small Language Models are emerging as powerful alternatives for specific use cases, consuming only a fraction of the resources.
 
