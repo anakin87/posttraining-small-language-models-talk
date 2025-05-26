@@ -34,7 +34,6 @@ This world changed a bit since when I proposed the talk, so I added a section ab
 - [⚙️💰 Memory-efficient training](#️-memory-efficient-training)
 - [🧩 Model merging](#-model-merging)
 - [🧠💭 Reasoning models and GRPO](#-reasoning-models-and-grpo)
-- [💰 Quantization](#-quantization)
 - [📱 Small Language Models on a phone](#-small-language-models-on-a-phone)
 
 ### 🌱 Intro
