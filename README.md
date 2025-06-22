@@ -3,6 +3,7 @@
 Material for the homonymous talk.
 
 [🍿 Talk - PyCon Italy 2025](https://www.youtube.com/live/yOIV-1qtwcU?si=bvzkCxlgnrZG_yq8&t=19889)
+
 [🧑‍🏫 Slide deck](./slides.pdf)
 
 <details><summary>📝 Abstract</summary>
