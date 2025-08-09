@@ -2,7 +2,7 @@
 
 Material for the homonymous talk.
 
-[🍿 Talk - PyCon Italy 2025](https://www.youtube.com/live/yOIV-1qtwcU?si=bvzkCxlgnrZG_yq8&t=19889)
+[🍿 Talk - PyCon Italy 2025](https://www.youtube.com/watch?v=OrE-ocSltqg)
 
 [🧑‍🏫 Slide deck](./slides.pdf)
 
